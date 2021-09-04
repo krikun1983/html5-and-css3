@@ -59,5 +59,4 @@ const CATALOG = [
     img: 'https://i.ibb.co/30qJcZX/10.jpg',
     price: 15990,
   }
-
 ];
